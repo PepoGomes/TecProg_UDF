@@ -30,5 +30,5 @@ Sinta-se à vontade para explorar, aprender e contribuir com o repositório.
 
 ---
 
-**Autor:** Seu Nome  
-**Data:** 2025
+**Autor:** Pedro Henrique Caniza Gomes
+**Data:** 21/08/2025
